@@ -1,6 +1,8 @@
-# TITLE
+# BitcoinSV: The REAL Bitcon
 
 ## Overview and Origin
+
+The story goes that a person or group under the pseudoym, "Satoshi Nakomoto" published the Bitcon whitepaper that completely revolutionized the way we look at and think of money.[1](https://news.bitcoin.com/how-bitcoins-peer-to-peer-cash-system-was-revealed-11-years-ago/#:~:text=On%20the%20eve%20of%20Halloween%20on%20October%2031%2C%202008%2C%20Satoshi,existence%20following%20Bitcoin's%20initial%20launch.) 
 
 * Name of company
 
@@ -50,3 +52,5 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+[1] 
