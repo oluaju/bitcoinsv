@@ -2,22 +2,21 @@
 
 ## Overview and Origin
 
-The story goes that a person or group under the pseudoym, "Satoshi Nakomoto" published the Bitcon whitepaper that completely revolutionized the way we look at and think of money.[1](https://news.bitcoin.com/how-bitcoins-peer-to-peer-cash-system-was-revealed-11-years-ago/#:~:text=On%20the%20eve%20of%20Halloween%20on%20October%2031%2C%202008%2C%20Satoshi,existence%20following%20Bitcoin's%20initial%20launch.) 
+The story goes that a person or group under the pseudonym, "Satoshi Nakomoto" published the Bitcoin whitepaper that completely revolutionized the way we look at and think of money.[[1]](https://news.bitcoin.com/how-bitcoins-peer-to-peer-cash-system-was-revealed-11-years-ago/#:~:text=On%20the%20eve%20of%20Halloween%20on%20October%2031%2C%202008%2C%20Satoshi,existence%20following%20Bitcoin's%20initial%20launch.) 
 
-* Name of company
+According to the whitepaper itself, the reason why this project was created was to solve the inherent problem of trust being a required input for financial transactions. Because of the nature of the industry and the flow of money, this trust was always leveraged to to banks and huge financial institutions.[[2]](https://bitcoin.org/bitcoin.pdf) 
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+Even better, the funding of this project would come as a result of its utility and the concept of scarcity. Unlike the current financial system, there is a fixed supply of Bitcoin that will ever exist. This means that its price can not be manipulated as a result of creating or destroying bitcoin and its value is always determined by the market. At what price are people willing to buy and sell Bitcoin. Over time, as scarcity plays a more important role, its value will continue to increase the rate based on this supply and demand factor. 
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+Trust is an integral part of human society. It's represented in multiple different factors such as credit score and worthiness, interest rates, terms, contracts and a great deal of other technologies and mechanisms needed to enforce trust. The breakdown of this model is that trust can and often times are over allocated to specific groups and under-allocated to others. It does not provide a system where transactions can be make for transaction sake. In other words, humans need trust but are untrustworthy at enforcing it. 
+
+The genesis behind Bitcoin is the computers and machines are inherently more trustworthy than humans and should replace them as the arbiter of trust relative to financial transactions. This attracted an early adopter type of users that appealed to the idea of financial transactions being owned an operated by a group of people and machines who complimented one another. People to provide the exchange of value, machines to enforce trust and security. The target user was the un-banked in societies were trust was extremely unfeasible, and also communities that needed to transact without the huge fees being collected by untrustworthy intermediaries. 
+
+Now as Bitcoin evolved, there were differing opinions about the implementation of block-sizes. BitcoinSV - opted for larger block-sizes than their predecessors, Bitcoin and Bitcoin Cash. This allowed for orders of magnitude more utility and ultimately more technologies being built onto of Bitcoin as a platform and network. 
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -53,4 +52,6 @@ What solution does this company offer that their competitors do not or cannot of
 
 * Why are these technologies appropriate for your solution?
 
-[1] 
+[[1]How Bitcoin's Peer-to-Peer Cash System was Revealed 11 Years Ago](https://news.bitcoin.com/how-bitcoins-peer-to-peer-cash-system-was-revealed-11-years-ago/#:~:text=On%20the%20eve%20of%20Halloween%20on%20October%2031%2C%202008%2C%20Satoshi,existence%20following%20Bitcoin's%20initial%20launch.) 
+[[2]Bitcon: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+
